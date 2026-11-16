@@ -54,3 +54,4 @@ private-key.*.pem
 
 # Add any other Kubernetes-related files/directories that you want to exclude.
 spyderbat/
+.venv/
